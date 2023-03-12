@@ -36,3 +36,5 @@ dependencies{
 test {
     useJUnitPlatform()
 }
+
+compile('org.springframework.boot:sprint-boot-starter-mustache')
