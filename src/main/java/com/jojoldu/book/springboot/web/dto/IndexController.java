@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot.web;
+package com.jojoldu.book.springboot.web.dto;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
